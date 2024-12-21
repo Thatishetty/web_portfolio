@@ -36,7 +36,7 @@ const Contact = () => {
             <div>
               <BsEnvelope />
               <span>{t("mailMe")}</span>
-              <p>thatisheetyaakashchandra9873[@]gmail.com</p>
+              <p>thatishettyaakash7@gmail.com</p>
             </div>
 
             <div>
